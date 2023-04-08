@@ -11,6 +11,6 @@ palera1n -h help
 
 ![Untitlddddded 2](https://user-images.githubusercontent.com/119916323/230702463-9f946f4f-4464-47ac-acc4-a61d1f1db9b8.jpg)
 
+![IMG_1062](https://user-images.githubusercontent.com/119916323/230702564-c8a7d35a-2c95-47a0-8461-5e9f85d2d34a.jpg)
 
-![IMG_1062](https://user-images.githubusercontent.com/119916323/230702513-9d92c6de-152a-4ca7-b794-e0c15f8c5e30.jpg)
 
