@@ -1,16 +1,7 @@
-# Palera1n-C
-PaleRa1n written in C
+# PaleRa1n written in C
+## palera1n -h help
+### <img width="1550" alt="palera1n -f" src="https://user-images.githubusercontent.com/119916323/236592879-768e37d0-ba85-4fec-8680-c4c3925df1f2.png">
+### <img width="966" alt="palera1n -f -c" src="https://user-images.githubusercontent.com/119916323/236592911-dc6e17e5-653c-4360-a84e-78f3c50929a4.png">
+### ![palera1n -h](https://user-images.githubusercontent.com/119916323/236592919-89d027a2-0a8a-41f2-ba82-dceac68a1c33.png)
 
-## Clone repo-----> git clone https://github.com/sudo-self/Palera1n-C/
-
-cd Palera1n-C
-
-palera1n -h help
-
-![Untitleddd 2](https://user-images.githubusercontent.com/119916323/230702456-6f15191e-ef41-41f9-ad01-ae53e8ac69fc.jpg)
-
-![Untitlddddded 2](https://user-images.githubusercontent.com/119916323/230702463-9f946f4f-4464-47ac-acc4-a61d1f1db9b8.jpg)
-
-![IMG_1062](https://user-images.githubusercontent.com/119916323/230702564-c8a7d35a-2c95-47a0-8461-5e9f85d2d34a.jpg)
-
-
+### 
